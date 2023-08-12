@@ -1,0 +1,147 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/cardiovascular-disease-ischaemia---primary.py
+inputModule3:
+  class: File
+  path: python/cardiovascular-disease-heart---primary.py
+inputModule4:
+  class: File
+  path: python/atherosclerotic-cardiovascular-disease---primary.py
+inputModule5:
+  class: File
+  path: python/cardiovascular-disease-preinfarction---primary.py
+inputModule6:
+  class: File
+  path: python/cardiovascular-disease-thrombosis---primary.py
+inputModule7:
+  class: File
+  path: python/cardiovascular-disease-ruptur---primary.py
+inputModule8:
+  class: File
+  path: python/cardiovascular-disease-subacute---primary.py
+inputModule9:
+  class: File
+  path: python/cardiovascular-disease-dressler's---primary.py
+inputModule10:
+  class: File
+  path: python/cardiovascular-disease-angina---primary.py
+inputModule11:
+  class: File
+  path: python/unstable-cardiovascular-disease---primary.py
+inputModule12:
+  class: File
+  path: python/cardiovascular-disease-arrest---primary.py
+inputModule13:
+  class: File
+  path: python/cardiovascular-disease-aborted---primary.py
+inputModule14:
+  class: File
+  path: python/cardiovascular-disease-insufficiency---primary.py
+inputModule15:
+  class: File
+  path: python/subendocardial-cardiovascular-disease---primary.py
+inputModule16:
+  class: File
+  path: python/cardiovascular-disease-myocard---primary.py
+inputModule17:
+  class: File
+  path: python/cardiovascular-disease-pectoris---primary.py
+inputModule18:
+  class: File
+  path: python/cardiovascular-disease-decubitus---primary.py
+inputModule19:
+  class: File
+  path: python/coronary-cardiovascular-disease---primary.py
+inputModule20:
+  class: File
+  path: python/cardiovascular-disease-anginosus---primary.py
+inputModule21:
+  class: File
+  path: python/cardiovascular-disease-steno---primary.py
+inputModule22:
+  class: File
+  path: python/cardiovascular-disease---primary.py
+inputModule23:
+  class: File
+  path: python/cardiovascular-disease-atherosclerosis---primary.py
+inputModule24:
+  class: File
+  path: python/cardiovascular-disease-vessel---primary.py
+inputModule25:
+  class: File
+  path: python/silent-cardiovascular-disease---primary.py
+inputModule26:
+  class: File
+  path: python/septal-cardiovascular-disease---primary.py
+inputModule27:
+  class: File
+  path: python/cardiovascular-disease-asystole---primary.py
+inputModule28:
+  class: File
+  path: python/cardiovascular-disease-cardiac---primary.py
+inputModule29:
+  class: File
+  path: python/cardiovascular-disease-unspecif---primary.py
+inputModule30:
+  class: File
+  path: python/cardiovascular-disease-cereb---primary.py
+inputModule31:
+  class: File
+  path: python/cardiovascular-disease-haemorrhage---primary.py
+inputModule32:
+  class: File
+  path: python/cardiovascular-disease-capsule---primary.py
+inputModule33:
+  class: File
+  path: python/cardiovascular-disease-basal---primary.py
+inputModule34:
+  class: File
+  path: python/cardiovascular-disease-hemisphere---primary.py
+inputModule35:
+  class: File
+  path: python/cardiovascular-disease-precerebr---primary.py
+inputModule36:
+  class: File
+  path: python/cardiovascular-disease-occlus---primary.py
+inputModule37:
+  class: File
+  path: python/cardiovascular-disease-brainstem---primary.py
+inputModule38:
+  class: File
+  path: python/lateral-cardiovascular-disease---primary.py
+inputModule39:
+  class: File
+  path: python/cardiovascular-disease-lacunar---primary.py
+inputModule40:
+  class: File
+  path: python/cardiovascular-disease-sided---primary.py
+inputModule41:
+  class: File
+  path: python/right-cardiovascular-disease---primary.py
+inputModule42:
+  class: File
+  path: python/cardiovascular-disease-generalised---primary.py
+inputModule43:
+  class: File
+  path: python/cardiovascular-disease-occlusn---primary.py
+inputModule44:
+  class: File
+  path: python/cerebrovascular-cardiovascular-disease---primary.py
+inputModule45:
+  class: File
+  path: python/cardiovascular-disease-claudication---primary.py
+inputModule46:
+  class: File
+  path: python/arterial-cardiovascular-disease---primary.py
+inputModule47:
+  class: File
+  path: python/cardiovascular-disease-iliac---primary.py
+inputModule48:
+  class: File
+  path: python/cardiovascular-disease-forms---primary.py
+inputModule49:
+  class: File
+  path: python/output-cases.py
